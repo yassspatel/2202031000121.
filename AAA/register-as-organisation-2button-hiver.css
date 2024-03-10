@@ -1,0 +1,309 @@
+.heading-bar-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(
+    90.1deg,
+    #46052d,
+    #46052d 0.01%,
+    #500732 15.52%,
+    #5e0933 32.71%,
+    #610834 47.81%,
+    #6a0b37 63.44%,
+    #991747 76.98%,
+    #b32346 94.17%
+  );
+  width: 1320px;
+  height: 497px;
+}
+.register-as-organization {
+  position: absolute;
+  top: 59px;
+  left: 23px;
+  font-weight: 500;
+}
+.heading-bar {
+  position: absolute;
+  top: 213px;
+  left: 60px;
+  width: 1320px;
+  height: 497px;
+  font-size: var(--font-size-17xl);
+}
+.form-body-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 90px 2px rgba(165, 164, 164, 0.25);
+  width: 1378px;
+  height: 804px;
+}
+.organization-name1 {
+  position: absolute;
+  top: 16px;
+  left: 0;
+  display: inline-block;
+  width: 217px;
+}
+.organisation-name {
+  position: absolute;
+  top: 0;
+  left: 243px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 522px;
+  height: 58px;
+}
+.name {
+  position: absolute;
+  top: 16px;
+  left: 263px;
+  color: var(--color-silver);
+  display: inline-block;
+  width: 118px;
+  height: 28px;
+}
+.address3,
+.organization-name {
+  position: absolute;
+  top: 28px;
+  left: 59px;
+  width: 765px;
+  height: 58px;
+}
+.address3 {
+  top: 0;
+  left: 129px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 522px;
+  height: 277px;
+}
+.name1 {
+  position: absolute;
+  top: 15px;
+  left: 149px;
+  color: var(--color-silver);
+  display: inline-block;
+  width: 118px;
+  height: 28px;
+}
+.address1 {
+  position: absolute;
+  top: 141px;
+  left: 173px;
+  width: 651px;
+  height: 277px;
+}
+.phone-number2 {
+  top: 16px;
+  left: 0;
+}
+.name2,
+.phone-number2,
+.phone1 {
+  position: absolute;
+}
+.phone1 {
+  top: 0;
+  left: 200px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 522px;
+  height: 58px;
+}
+.name2 {
+  top: 16px;
+  left: 220px;
+  color: var(--color-silver);
+  display: inline-block;
+  width: 118px;
+  height: 28px;
+}
+.phone-number1 {
+  position: absolute;
+  top: 580px;
+  left: 102px;
+  width: 722px;
+  height: 58px;
+}
+.head-of-organization {
+  position: absolute;
+  top: 15px;
+  left: 0;
+}
+.head,
+.name3 {
+  position: absolute;
+}
+.head {
+  top: 0;
+  left: 266px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 522px;
+  height: 58px;
+}
+.name3 {
+  top: 15px;
+  left: 286px;
+  color: var(--color-silver);
+  display: inline-block;
+  width: 118px;
+  height: 28px;
+}
+.form-body,
+.head-of-organisation {
+  position: absolute;
+  top: 469px;
+  left: 36px;
+  width: 788px;
+  height: 58px;
+}
+.form-body {
+  top: 404px;
+  left: 31px;
+  width: 1378px;
+  height: 804px;
+  color: var(--color-dimgray-200);
+}
+.home4 {
+  position: absolute;
+  top: 17px;
+  left: 348px;
+}
+.about-us3,
+.button5,
+.find-blood3 {
+  position: absolute;
+  top: 17px;
+  left: 675px;
+}
+.about-us3,
+.button5 {
+  left: 494px;
+}
+.button5 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 224px;
+  height: 71px;
+}
+.contact3 {
+  position: absolute;
+  top: 20px;
+  left: 77px;
+  display: inline-block;
+  width: 69px;
+  height: 37px;
+}
+.group-div {
+  position: absolute;
+  top: 0;
+  left: 1092px;
+  width: 224px;
+  height: 71px;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-roboto);
+}
+.register-now3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.chevron-down-icon5 {
+  position: absolute;
+  top: 16px;
+  left: 161px;
+  width: 23px;
+  height: 23px;
+  overflow: hidden;
+}
+.register-now-group {
+  position: absolute;
+  top: 16px;
+  left: 873px;
+  width: 184px;
+  height: 39px;
+}
+.navbar-inner,
+.rectangle-div {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 61px;
+  height: 62px;
+}
+.rectangle-div {
+  top: 55px;
+  left: 876px;
+  background-color: var(--color-darkslategray-100);
+  width: 152px;
+  height: 5px;
+}
+.navbar2 {
+  position: absolute;
+  top: 52px;
+  left: 62px;
+  width: 1316px;
+  height: 71px;
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.button6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-black);
+  box-shadow: 0 4px 90px 2px rgba(165, 164, 164, 0.25);
+  width: 225px;
+  height: 72px;
+}
+.submit2 {
+  position: absolute;
+  top: 21px;
+  left: 51px;
+  font-weight: 900;
+}
+.check-circle-icon2 {
+  position: absolute;
+  top: 17px;
+  left: 158px;
+  width: 37px;
+  height: 38px;
+  overflow: hidden;
+}
+.button-parent1 {
+  position: absolute;
+  top: 1040px;
+  left: 1138px;
+  width: 225px;
+  height: 72px;
+  font-size: var(--font-size-6xl);
+}
+.register-as-organisation-2but {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1207.7px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}

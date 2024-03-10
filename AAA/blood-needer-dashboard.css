@@ -1,0 +1,255 @@
+.switching-tab-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-11xl);
+  background-color: rgba(234, 234, 234, 0.2);
+  box-shadow: 0 1px 2px rgba(97, 97, 97, 0.2) inset,
+    0 2px 4px rgba(97, 97, 97, 0.2) inset;
+  width: 337px;
+  height: 50px;
+}
+.blood-banks {
+  position: absolute;
+  top: 10px;
+  left: 23px;
+  letter-spacing: 0.02em;
+  line-height: 150%;
+  display: flex;
+  align-items: center;
+  width: 116px;
+}
+.tab-1 {
+  position: absolute;
+  top: 0;
+  left: 175px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-black);
+  box-shadow: var(--shadow-grey-2dp);
+  width: 162px;
+  height: 50px;
+}
+.blood-donors {
+  position: absolute;
+  top: 10px;
+  left: 26px;
+  letter-spacing: 0.02em;
+  line-height: 150%;
+  display: flex;
+  color: var(--color-black);
+  align-items: center;
+  width: 126px;
+}
+.switching-tab {
+  position: absolute;
+  top: 199px;
+  left: 582px;
+  width: 337px;
+  height: 50px;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.blood-bank-small-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 90px 2px rgba(209, 205, 205, 0.25);
+  width: 1274px;
+  height: 276px;
+}
+.abc-hospital-building {
+  margin: 0;
+}
+.abc-hospital-building-container {
+  position: absolute;
+  top: 63px;
+  left: 0;
+  font-family: var(--font-manrope);
+  display: inline-block;
+  width: 1168px;
+  height: 145px;
+}
+.name-of-the {
+  font-size: var(--font-size-17xl);
+  display: inline-block;
+  color: var(--color-black);
+  width: 482px;
+  height: 55px;
+}
+.button12,
+.name-of-the,
+.view-location1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.button12 {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-black);
+  box-shadow: 0 4px 90px 5px #dedfdf;
+  width: 175px;
+  height: 45px;
+}
+.view-location1 {
+  font-weight: 900;
+  display: inline-block;
+  width: 115px;
+  height: 25.2px;
+}
+.get-blood1,
+.view-location {
+  position: absolute;
+  top: 12.1px;
+  left: 30px;
+  width: 115px;
+  height: 25.2px;
+}
+.view-location {
+  top: 0;
+  left: 996px;
+  width: 175px;
+  height: 45px;
+  font-size: var(--font-size-lg);
+  color: var(--color-white);
+}
+.blood-bank-detalislocation {
+  position: absolute;
+  top: 42px;
+  left: 53px;
+  width: 1171px;
+  height: 208px;
+}
+.blood-bank-small,
+.blood-bank-small1 {
+  position: absolute;
+  top: 313px;
+  left: 83px;
+  width: 1274px;
+  height: 276px;
+}
+.blood-bank-small1 {
+  top: 659px;
+}
+.blood-bank-small2,
+.blood-bank-small3,
+.blood-bank-small4 {
+  position: absolute;
+  top: 1005px;
+  left: 83px;
+  width: 1274px;
+  height: 276px;
+}
+.blood-bank-small3,
+.blood-bank-small4 {
+  top: 1351px;
+}
+.blood-bank-small4 {
+  top: 1697px;
+}
+.home9 {
+  position: absolute;
+  top: 32.2px;
+  left: 348px;
+}
+.about-us8,
+.button17,
+.find-blood8 {
+  position: absolute;
+  top: 32.2px;
+  left: 675px;
+}
+.about-us8,
+.button17 {
+  left: 494px;
+}
+.button17 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 224px;
+  height: 71px;
+}
+.contact7 {
+  position: absolute;
+  top: 23px;
+  left: 75px;
+  display: inline-block;
+  width: 74px;
+  height: 30px;
+}
+.button-parent4 {
+  position: absolute;
+  top: 15.2px;
+  left: 1092px;
+  width: 224px;
+  height: 71px;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-roboto);
+}
+.register-now8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.chevron-down-icon12 {
+  position: absolute;
+  top: 16px;
+  left: 161px;
+  width: 23px;
+  height: 23px;
+  overflow: hidden;
+}
+.register-now-parent2 {
+  position: absolute;
+  top: 31.2px;
+  left: 873px;
+  width: 184px;
+  height: 39px;
+}
+.navbar-child4,
+.navbar-child5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 61px;
+  height: 78.2px;
+}
+.navbar-child5 {
+  top: 70.2px;
+  left: 675px;
+  background-color: var(--color-darkslategray-100);
+  width: 124px;
+  height: 5px;
+}
+.navbar6 {
+  position: absolute;
+  top: 36.8px;
+  left: 62px;
+  width: 1316px;
+  height: 86.2px;
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.blood-needer-dashboard-blood-b {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 1351px;
+  overflow: hidden;
+}
+.blood-needer-dashboard {
+  width: 100%;
+  position: relative;
+  height: 1351px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-roboto);
+}

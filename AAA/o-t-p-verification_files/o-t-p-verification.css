@@ -1,0 +1,214 @@
+.otp-card-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 90px 2px rgba(219, 215, 215, 0.25);
+  width: 700px;
+  height: 564px;
+}
+.an-otp-will {
+  position: absolute;
+  top: 221px;
+  left: 111px;
+  display: inline-block;
+  width: 477px;
+  height: 22px;
+}
+.registration {
+  position: absolute;
+  top: 146px;
+  left: 241px;
+  font-size: var(--font-size-17xl);
+}
+.mobile-number-field-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  backdrop-filter: blur(4px);
+  border: 1px solid rgba(0, 0, 0, 0.25);
+  box-sizing: border-box;
+  width: 498px;
+  height: 34px;
+}
+.enter-your-mobile {
+  position: absolute;
+  top: 5px;
+  left: 10px;
+  white-space: pre-wrap;
+}
+.mobile-number-field {
+  position: absolute;
+  top: 294px;
+  left: 101px;
+  width: 498px;
+  height: 34px;
+  color: rgba(0, 0, 0, 0.28);
+}
+.get-otp-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-black);
+  width: 227px;
+  height: 48px;
+}
+.get-otp1 {
+  position: absolute;
+  top: 13px;
+  left: 80px;
+  font-weight: 900;
+}
+.get-otp {
+  position: absolute;
+  top: 384px;
+  left: 236px;
+  width: 227px;
+  height: 48px;
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}
+.lorem-ipsum-is3 {
+  position: absolute;
+  top: 0;
+  left: 7.1px;
+  display: inline-block;
+  width: 456.9px;
+  height: 37px;
+}
+.biasterisk-icon {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  width: 5.4px;
+  height: 6px;
+  overflow: hidden;
+}
+.asterisk-text {
+  position: absolute;
+  top: 342px;
+  left: 118px;
+  width: 464px;
+  height: 37px;
+  font-size: 14px;
+  color: var(--color-dimgray-100);
+  font-family: var(--font-roboto);
+}
+.otp-card {
+  position: absolute;
+  top: 320px;
+  left: 370px;
+  width: 700px;
+  height: 564px;
+}
+.home5 {
+  position: absolute;
+  top: 17px;
+  left: 348px;
+}
+.about-us4,
+.button7,
+.find-blood4 {
+  position: absolute;
+  top: 17px;
+  left: 675px;
+}
+.about-us4,
+.button7 {
+  left: 494px;
+}
+.button7 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 224px;
+  height: 71px;
+}
+.contact4 {
+  position: absolute;
+  top: 19px;
+  left: 77px;
+  display: inline-block;
+  width: 69px;
+  height: 24px;
+}
+.button-parent2 {
+  position: absolute;
+  top: 0;
+  left: 1092px;
+  width: 224px;
+  height: 71px;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-roboto);
+}
+.register-now4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.chevron-down-icon6 {
+  position: absolute;
+  top: 16px;
+  left: 161px;
+  width: 23px;
+  height: 23px;
+  overflow: hidden;
+}
+.register-now-container {
+  position: absolute;
+  top: 16px;
+  left: 873px;
+  width: 184px;
+  height: 39px;
+}
+.group-icon,
+.navbar-child1 {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 61px;
+  height: 62px;
+}
+.navbar-child1 {
+  top: 55px;
+  left: 675px;
+  background-color: var(--color-darkslategray-100);
+  width: 124px;
+  height: 5px;
+}
+.navbar3 {
+  position: absolute;
+  top: 52px;
+  left: 62px;
+  width: 1316px;
+  height: 71px;
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-poppins);
+}
+.phone-number-verification {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-white);
+  overflow: hidden;
+}
+.otp-verification {
+  width: 100%;
+  position: relative;
+  height: 968.6px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-manrope);
+}

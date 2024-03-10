@@ -1,0 +1,544 @@
+.register-as-donor-child {
+  position: absolute;
+  top: 213px;
+  left: 57px;
+  background: linear-gradient(
+    90.1deg,
+    #46052d,
+    #46052d 0.01%,
+    #500732 15.52%,
+    #5e0933 32.71%,
+    #610834 47.81%,
+    #6a0b37 63.44%,
+    #991747 76.98%,
+    #b32346 94.17%
+  );
+  width: 1326px;
+  height: 499px;
+}
+.register-as-donor2 {
+  position: absolute;
+  top: 273px;
+  left: 94px;
+  font-size: 36px;
+  font-weight: 500;
+  color: var(--color-white);
+  display: inline-block;
+  width: 300px;
+  height: 45px;
+  text-shadow: 1px 0 0#fff, 0 1px 0#fff, -1px 0 0#fff, 0-1px 0#fff;
+}
+.register-as-donor-item {
+  position: absolute;
+  top: 377px;
+  left: 30px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 90px 2px rgba(165, 164, 164, 0.25);
+  width: 1380px;
+  height: 1199px;
+}
+.email1,
+.email2,
+.first-name,
+.first-name1,
+.first-name2,
+.first-name3,
+.first-name4,
+.last-name,
+.last-name1,
+.last-name2,
+.last-name3,
+.number {
+  position: absolute;
+  top: 1086px;
+  left: 322px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+  width: 460px;
+  height: 58px;
+}
+.email1,
+.email2,
+.first-name1,
+.first-name2,
+.first-name3,
+.first-name4,
+.last-name,
+.last-name1,
+.last-name2,
+.last-name3,
+.number {
+  top: 439px;
+}
+.email1,
+.email2,
+.first-name2,
+.first-name3,
+.first-name4,
+.last-name,
+.last-name1,
+.last-name2,
+.last-name3,
+.number {
+  top: 973px;
+  height: 59px;
+}
+.email1,
+.email2,
+.first-name3,
+.first-name4,
+.last-name,
+.last-name1,
+.last-name2,
+.last-name3,
+.number {
+  top: 1219px;
+}
+.email1,
+.email2,
+.first-name4,
+.last-name,
+.last-name1,
+.last-name2,
+.last-name3,
+.number {
+  left: 907px;
+}
+.email1,
+.email2,
+.last-name,
+.last-name1,
+.last-name2,
+.last-name3,
+.number {
+  top: 439px;
+  left: 879px;
+  width: 468px;
+  height: 58px;
+}
+.email1,
+.email2,
+.last-name1,
+.last-name2,
+.last-name3,
+.number {
+  top: 764px;
+  left: 1025px;
+  width: 322px;
+  height: 59px;
+}
+.email1,
+.email2,
+.last-name2,
+.last-name3,
+.number {
+  top: 872px;
+  height: 58px;
+}
+.email1,
+.email2,
+.last-name3,
+.number {
+  top: 972px;
+  height: 59px;
+}
+.email1,
+.email2,
+.number {
+  top: 558px;
+  left: 322px;
+  width: 1025px;
+  height: 58px;
+}
+.email1,
+.email2 {
+  top: 765px;
+  width: 460px;
+  height: 172px;
+}
+.email2 {
+  top: 654px;
+  width: 1025px;
+  height: 58px;
+}
+.first {
+  left: 353px;
+  color: var(--color-silver);
+  width: 50px;
+}
+.first,
+.full-name,
+.last-name4 {
+  position: absolute;
+  top: 454px;
+  display: inline-block;
+  height: 28px;
+}
+.last-name4 {
+  left: 907px;
+  color: var(--color-silver);
+  width: 118px;
+}
+.full-name {
+  left: 147px;
+  color: #4d4d4d;
+  width: 109px;
+}
+.phone-number {
+  top: 573px;
+  left: 94px;
+  width: 162px;
+}
+.address,
+.district,
+.e-mail,
+.phone-number {
+  position: absolute;
+  display: inline-block;
+  height: 28px;
+}
+.e-mail {
+  top: 669px;
+  left: 190px;
+  white-space: pre-wrap;
+  width: 66px;
+}
+.address,
+.district {
+  top: 772px;
+  left: 166px;
+  width: 90px;
+}
+.district {
+  top: 988px;
+  left: 178px;
+  width: 78px;
+  height: 29px;
+}
+.age,
+.blood-group,
+.last-donation,
+.pincode,
+.state {
+  position: absolute;
+  top: 1098px;
+  left: 165px;
+  display: inline-block;
+  width: 91px;
+  height: 28px;
+}
+.age,
+.blood-group,
+.last-donation,
+.state {
+  top: 1239px;
+  left: 105px;
+  width: 151px;
+}
+.age,
+.blood-group,
+.state {
+  top: 988px;
+  left: 928px;
+  width: 56px;
+  height: 29px;
+}
+.age,
+.blood-group {
+  top: 780px;
+  left: 942px;
+  width: 42px;
+  height: 28px;
+}
+.blood-group {
+  top: 884px;
+  left: 850px;
+  width: 134px;
+}
+.number1 {
+  top: 573px;
+  width: 88px;
+}
+.email3,
+.email4,
+.email5,
+.email6,
+.email7,
+.number1 {
+  position: absolute;
+  left: 353px;
+  color: var(--color-lightgray);
+  display: inline-block;
+  height: 28px;
+}
+.email3 {
+  top: 669px;
+  white-space: pre-wrap;
+  width: 80px;
+}
+.email4,
+.email5,
+.email6,
+.email7 {
+  top: 788px;
+  width: 110px;
+}
+.email5,
+.email6,
+.email7 {
+  top: 780px;
+  left: 1050px;
+  width: 43px;
+}
+.email6,
+.email7 {
+  top: 1235px;
+  left: 350px;
+  width: 71px;
+}
+.email7 {
+  left: 942px;
+  width: 48px;
+}
+.button2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  box-shadow: 0 4px 90px 2px rgba(165, 164, 164, 0.25);
+  width: 225px;
+  height: 72px;
+}
+.check-circle-icon,
+.submit {
+  position: absolute;
+  height: 38px;
+}
+.submit {
+  top: 22px;
+  left: 52px;
+  display: inline-block;
+  width: 157px;
+}
+.check-circle-icon {
+  top: 17px;
+  left: 158px;
+  width: 37px;
+  overflow: hidden;
+}
+.button-parent {
+  position: absolute;
+  top: 1438px;
+  left: 1137px;
+  width: 225px;
+  height: 72px;
+  display: none;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+}
+.home3 {
+  position: absolute;
+  top: 17px;
+  left: 0;
+}
+.about-us2,
+.button3,
+.find-blood2 {
+  position: absolute;
+  top: 17px;
+  left: 327px;
+}
+.about-us2,
+.button3 {
+  left: 146px;
+}
+.button3 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 224px;
+  height: 71px;
+}
+.contact2 {
+  position: absolute;
+  top: 19px;
+  left: 72px;
+  display: inline-block;
+  width: 80px;
+  height: 37px;
+}
+.button-group {
+  position: absolute;
+  top: 0;
+  left: 744px;
+  width: 224px;
+  height: 71px;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-roboto);
+}
+.register-now2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.chevron-down-icon1 {
+  position: absolute;
+  top: 16px;
+  left: 161px;
+  width: 23px;
+  height: 23px;
+  overflow: hidden;
+}
+.navbar-child,
+.register-now-parent {
+  position: absolute;
+  top: 16px;
+  left: 525px;
+  width: 184px;
+  height: 39px;
+}
+.navbar-child {
+  top: 1px;
+  left: -348px;
+  width: 61px;
+  height: 62px;
+  display: none;
+}
+.navbar-item {
+  position: absolute;
+  top: 55px;
+  left: 528px;
+  background-color: var(--color-darkslategray-100);
+  width: 152px;
+  height: 5px;
+}
+.navbar1 {
+  position: absolute;
+  top: 52px;
+  left: 410px;
+  width: 968px;
+  height: 71px;
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.group-child,
+.lorem-ipsum-is2 {
+  position: absolute;
+  top: 0;
+  left: 49.2px;
+  display: none;
+  width: 1035.8px;
+  height: 62px;
+}
+.group-child {
+  top: 4px;
+  left: 0;
+  background-color: var(--color-black);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 20px;
+  height: 20px;
+}
+.lorem-ipsum-is-simply-dummy-te-parent {
+  position: absolute;
+  top: 1354px;
+  left: 322px;
+  width: 0;
+  height: 0;
+  font-size: 22px;
+}
+.register-as-donor-inner {
+  position: absolute;
+  top: 1438px;
+  left: 1137px;
+  border-radius: 8px;
+  background-color: var(--color-black);
+  width: 225px;
+  height: 72px;
+  display: none;
+  opacity: 0.1;
+}
+.button4,
+.register-as-donor1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.register-as-donor1 {
+  background-color: var(--color-white);
+  width: 1440px;
+  height: 1588px;
+  overflow: hidden;
+}
+.button4 {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-black);
+  box-shadow: 0 4px 90px 2px rgba(165, 164, 164, 0.25);
+  width: 225px;
+  height: 72px;
+}
+.submit1 {
+  position: absolute;
+  top: 21px;
+  left: 51px;
+  font-weight: 900;
+}
+.button-container {
+  position: absolute;
+  top: 1438px;
+  left: 1137px;
+  width: 225px;
+  height: 72px;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+}
+.check {
+  position: absolute;
+  top: 1300px;
+  left: 395px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.chevron-down-icon2,
+.chevron-down-icon3,
+.chevron-down-icon4 {
+  position: absolute;
+  top: 994px;
+  left: 733px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.chevron-down-icon3,
+.chevron-down-icon4 {
+  top: 993px;
+  left: 1306px;
+}
+.chevron-down-icon4 {
+  top: 895px;
+  left: 1308px;
+}
+.register-as-donor-2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 1743px;
+}
+.register-as-donor {
+  width: 100%;
+  position: relative;
+  height: 1743px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-dimgray-100);
+  font-family: var(--font-roboto);
+}

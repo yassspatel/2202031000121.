@@ -1,0 +1,333 @@
+.footer-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 9px;
+  background: linear-gradient(
+      116.82deg,
+      rgba(255, 255, 255, 0) 50.52%,
+      rgba(255, 255, 255, 0.08)
+    ),
+    #000;
+  width: 1440px;
+  height: 557px;
+}
+.email,
+.phone,
+.whatsapp {
+  position: absolute;
+  top: 71.2px;
+  left: 2px;
+  display: inline-block;
+  width: 57px;
+  height: 38.9px;
+}
+.email,
+.whatsapp {
+  top: 191px;
+  left: 0;
+  width: 94px;
+}
+.email {
+  top: 131.1px;
+  left: 3px;
+  font-size: var(--font-size-xl);
+  width: 51px;
+}
+.contact,
+.footer-item {
+  position: absolute;
+  width: 96px;
+}
+.contact {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-5xl);
+  font-weight: 900;
+  display: inline-block;
+  height: 50.2px;
+}
+.footer-item {
+  top: 174.9px;
+  left: 115px;
+  height: 229.9px;
+  font-size: var(--font-size-lg);
+}
+.facebook,
+.follow-us,
+.instagram,
+.linkedin {
+  position: absolute;
+  top: 71.2px;
+  left: 2px;
+  display: inline-block;
+  width: 91px;
+  height: 38.9px;
+}
+.follow-us,
+.instagram,
+.linkedin {
+  top: 191px;
+  left: 3px;
+  width: 81px;
+}
+.follow-us,
+.instagram {
+  top: 131.1px;
+  width: 94px;
+}
+.follow-us {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-5xl);
+  font-weight: 900;
+  width: 129px;
+  height: 50.2px;
+}
+.footer-item1,
+.privacy,
+.terms {
+  position: absolute;
+  top: 174.9px;
+  left: 395px;
+  width: 129px;
+  height: 229.9px;
+}
+.privacy,
+.terms {
+  top: 71.2px;
+  left: 2px;
+  display: inline-block;
+  width: 59px;
+  height: 38.9px;
+}
+.privacy {
+  top: 131.1px;
+  left: 3px;
+  width: 69px;
+}
+.footer-item2,
+.lorem-ipsum-is {
+  position: absolute;
+  top: 174.9px;
+  left: 1192px;
+  width: 129px;
+  height: 170px;
+}
+.lorem-ipsum-is {
+  top: 71.2px;
+  left: 2px;
+  display: inline-block;
+  width: 218px;
+  height: 155.4px;
+}
+.footer,
+.footer-item3 {
+  position: absolute;
+  top: 174.9px;
+  left: 729px;
+  width: 220px;
+  height: 226.7px;
+}
+.footer {
+  top: 2803px;
+  left: 0;
+  width: 1440px;
+  height: 557px;
+}
+.save-life-donate {
+  margin: 0;
+}
+.lorem-ipsum-is1,
+.save-life-donate-container {
+  position: absolute;
+  letter-spacing: 0.05em;
+  display: inline-block;
+}
+.save-life-donate-container {
+  top: 0;
+  left: 0;
+  line-height: 56px;
+  width: 453px;
+  height: 286px;
+}
+.lorem-ipsum-is1 {
+  top: 140px;
+  left: 9px;
+  font-size: 13px;
+  line-height: 25px;
+  font-weight: 300;
+  color: var(--color-black);
+  width: 444px;
+}
+.button,
+.hero-text-quotes {
+  position: absolute;
+  top: 143px;
+  left: 2019px;
+  width: 453px;
+  height: 290px;
+}
+.button {
+  top: 0;
+  left: 0;
+  border-radius: 15px;
+  background-color: var(--color-black);
+  box-shadow: 0 4px 90px 5px #dedfdf;
+  width: 261px;
+  height: 75px;
+}
+.get-blood,
+.get-blood-now {
+  position: absolute;
+  width: 224px;
+  height: 39px;
+}
+.get-blood-now {
+  top: 0;
+  left: 0;
+  font-weight: 900;
+  display: inline-block;
+}
+.get-blood {
+  top: 18px;
+  left: 36px;
+}
+.get-blood-button {
+  position: absolute;
+  top: 506px;
+  left: 2201px;
+  width: 261px;
+  height: 75px;
+  text-align: left;
+  font-size: 30px;
+  color: var(--color-white);
+}
+.hero-gradient-design-icon,
+.hero-section {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 2250px;
+  height: 1013px;
+}
+.hero-section {
+  left: -1206px;
+  width: 2472px;
+  text-align: right;
+  font-size: 48px;
+  color: #3b3b3b;
+}
+.about-us1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.about-us {
+  left: 146px;
+  width: 107px;
+}
+.about-us,
+.button1,
+.find-blood,
+.home1 {
+  position: absolute;
+  top: 17px;
+  height: 36px;
+}
+.home1 {
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 72px;
+}
+.button1,
+.find-blood {
+  left: 327px;
+  width: 124px;
+}
+.button1 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 224px;
+  height: 71px;
+}
+.contact1 {
+  position: absolute;
+  top: 20px;
+  left: 75px;
+  display: inline-block;
+  width: 73px;
+  height: 37px;
+}
+.login-button {
+  position: absolute;
+  top: 0;
+  left: 744px;
+  width: 224px;
+  height: 71px;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-roboto);
+}
+.chevron-down-icon {
+  position: absolute;
+  top: 16px;
+  left: 161px;
+  width: 23px;
+  height: 23px;
+  overflow: hidden;
+}
+.register-now {
+  position: absolute;
+  top: 16px;
+  left: 525px;
+  width: 184px;
+  height: 39px;
+}
+.tab-bar-selected-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-darkslategray-100);
+  width: 72px;
+  height: 5px;
+}
+.navbar,
+.tab-bar-selected {
+  position: absolute;
+  top: 55px;
+  left: 0;
+  width: 72px;
+  height: 5px;
+}
+.navbar {
+  top: 52px;
+  left: 410px;
+  width: 968px;
+  height: 71px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
+.rectangle {
+  position: absolute;
+  top: 1024px;
+  left: 0;
+  background-color: #1e2832;
+  width: 1502px;
+  height: 103px;
+}
+.home {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1127px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}
